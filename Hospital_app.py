@@ -100,7 +100,6 @@ st.markdown ("""
         </div>
     </div>
     """,unsafe_allow_html=True)
-#--Form--
-with st.form("triage_form")
+
 
    
