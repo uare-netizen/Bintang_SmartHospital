@@ -32,4 +32,9 @@ div[data-testide="stCheckbox"] label {
    font-size:14px !important; font-weight: 500 !important; color: #3374151 !important;
 }
 </style>
-""",unsafe_allow_html=true)
+""",unsafe_allow_html=True)
+
+@st.cache_resource
+def load_model
+   with open('hospital_model.pkl', 'rb') as f:
+        return pickle.load(f)
