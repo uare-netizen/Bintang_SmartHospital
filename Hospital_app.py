@@ -64,7 +64,7 @@ DEPT_INFO = {
     },
     'Gastroenterology' : {
         'icon':'🦵','color':'##d97706','bg':'#fef3c7','border':'#fcd3d',
-        'desc':'Specialises in digestive system and abdominal conditions.'
+        'desc':'Specialises in digestive system and abdominal conditions.',
         'next':['Visit Level 1, Wing C','Estimated wait: 10-20 min','Avoid Eating before consultation']
     },
     'Neurology' : {
