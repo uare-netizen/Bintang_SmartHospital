@@ -35,7 +35,7 @@ div[data-testide="stCheckbox"] label {
 """,unsafe_allow_html=True)
 
 @st.cache_resource
-def load_model
+def load_model():
    with open('hospital_model.pkl', 'rb') as f:
         return pickle.load(f)
        
