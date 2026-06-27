@@ -103,6 +103,4 @@ st.markdown ("""
 #--Form--
 with st.form("triage_form")
 
-    #Section 1 - Sympptoms
-    st.markdown("""
-    <div style="display 
+   
